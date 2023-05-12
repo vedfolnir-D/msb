@@ -8,6 +8,10 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.ved.msb.common.result.ResultUtil;
 
+/**
+ * @author D
+ * @date 2023/5/11 17:23
+ */
 @ControllerAdvice
 public class GlobalExceptionHandler {
 
